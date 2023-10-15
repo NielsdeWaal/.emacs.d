@@ -1,0 +1,14 @@
+/org-roam.db
+/transient/
+/tree-sitter/
+/init.el~
+/eshell/
+/elpa/
+/eln-cache/
+/bookmarks~
+/bookmarks
+/backups/
+/auto-saves/
+/auto-save-list/
+/.org-id-locations
+/.cache/
